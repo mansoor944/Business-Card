@@ -1,0 +1,28 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.profileimg{
+    width: 150px;
+}
+
+.card{
+    background-color: #dda15e;
+    
+    color: #fefae0;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+    border-bottom:5px solid #bc6c25 ;
+}
+
+
+h2:hover, p:hover, h4:hover{
+    background-color: pink;
+    box-shadow: black;
+}
